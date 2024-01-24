@@ -16,6 +16,7 @@ Compile best human practices in order to define a flexible multivariate relation
  - Best practices to set yourself up for success
  - Best practices to bring joy to yourself
  - Best practices to support those around you
+ - High level abstract concepts that encompass lower level science
 
 ## What this knowledge base isn't:
  - A set of laws
@@ -23,3 +24,4 @@ Compile best human practices in order to define a flexible multivariate relation
  - A religion
  - A comphrensive list of every specific situation a person can face
  - A rote for rote guide for living the most opitmal life
+ - Specific science, moral, philosphical, or judicial concepts
